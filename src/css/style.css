@@ -42,7 +42,6 @@ ul li{
 ul li:hover{
     cursor: pointer;
     font-size: 2.4rem;
-    color: ;
     transition: 0.7s;
 }
 
